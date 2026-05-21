@@ -122,33 +122,6 @@ or
 ```text
 No Motion
 ```
-
----
-
-# ⚠️ Common Error
-
-If you get:
-
-```text
-Error: source open nahi hua
-```
-
-Then:
-
-* Check video file path
-* Make sure webcam is connected
-* Verify filename is correct
-
----
-
-# 📸 Future Improvements
-
-* Save detected motion videos
-* Email alerts
-* Human detection using AI
-* Face recognition integration
-* Security alarm system
-
 ---
 
 https://github.com/user-attachments/assets/e07109b0-8fea-418a-9b1f-71ca034069c0
